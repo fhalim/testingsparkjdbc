@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testingsparkjdbc.iml" filepath="$PROJECT_DIR$/.idea/modules/testingsparkjdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testingsparkjdbc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/testingsparkjdbc_main.iml" group="testingsparkjdbc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testingsparkjdbc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/testingsparkjdbc_test.iml" group="testingsparkjdbc" />
+    </modules>
+  </component>
+</project>
